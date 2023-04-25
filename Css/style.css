@@ -1,3 +1,24 @@
 body {
     background-color: #f8e8a6;
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+a {
+    
+    margin-left: 20px;
+    color: green;
+}
+.croissant-img{
+    max-width: 100%;
+    display: block;
+    border-radius: 8px;
+    margin: 30px auto;
+}
+footer{
+    text-align: center;
+}
+.contast-us{
+    color: blue;
 }
